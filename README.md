@@ -1,6 +1,6 @@
 # 👋 Hola, soy Allan Medina
 
- **Desarrollador web** | Técnico en sistemas | Amante del código bien hecho  
+ **Desarrollador web** | Técnico en sistemas | Instalador de ERP´s y consultorias informatico/administrativas 
 ☕ Programo mejor con café y rock de fondo 🎧  
  Apasionado por crear soluciones reales con JavaScript y tecnologías web modernas
 
@@ -8,8 +8,8 @@
 
 ## 🌐 Sobre mí
 
-Soy un desarrollador enfocado en **desarrollo web full stack**, con gusto por aprender, experimentar y mejorar constantemente.  
-Me gusta crear sistemas funcionales, claros y con personalidad (sí, incluso con un toque de humor 😄).
+Desarrollador full stack con enfoque en aplicaciones web, aprendizaje continuo y mejora constante.
+Especializado en la creación de sistemas funcionales para el control y la administración financiera de PYMES.
 
 ---
 
