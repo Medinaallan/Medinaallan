@@ -6,14 +6,7 @@
 
 ---
 
-## 🌐 Sobre mí
-
-Desarrollador full stack con enfoque en aplicaciones web, aprendizaje continuo y mejora constante.
-Especializado en la creación de sistemas funcionales para el control y la administración financiera de PYMES.
-
----
-
-##  Mi navaja suiza de herramientas
+##  Mi Stack
 
 **Tecnologías que uso en el día a día:**
 
