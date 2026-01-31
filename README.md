@@ -45,12 +45,4 @@
 
 ---
 
-## 📊 Algunas estadísticas
-
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medinaallan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medinaallan&layout=compact&theme=tokyonight)
-
-
----
-
 Gracias por leer xd
